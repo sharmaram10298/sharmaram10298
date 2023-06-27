@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DRF, Django Rest framework**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ram-sharma-056116229/](https://www.linkedin.com/in/ram-sharma-056116229/)
+- 👨‍💻 My LinkedIn Account: [https://www.linkedin.com/in/ram-sharma-056116229/](https://www.linkedin.com/in/ram-sharma-056116229/)
 
 - 📫  reach me **sharmaram10298@gmail.com**
 
