@@ -1,79 +1,72 @@
-# Ram Sharma
-### Senior Backend Developer | PHP & Laravel Expert | API & Cloud Specialist
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ram-sharma-056116229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sharmaram10298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sharmaram10298&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+# ⚡ Ram Sharma
+### **Senior Backend Developer | API Architect | Cloud Engineer**
+  
+*Crafting scalable backend ecosystems with PHP, Laravel & Node.js*
 
----
-
-## 🚀 About Me
-I am a **Backend Developer** with **2+ years of professional experience** specializing in building scalable RESTful APIs, high-performance backend systems, and secure real-time mobile integrations. My core expertise lies in **PHP (Laravel)**, **Node.js**, and **AWS Cloud Infrastructure**. 
-
-Currently, I am working on cutting-edge real-time movement-based virtual navigation systems. I practice clean code architectures following **SOLID** and **DRY** principles to build highly maintainable software.
-
-* 🌍 Based in **Mumbai, India** (Open to remote roles and flexible with international time zones)
-* 🌱 Up-skilling continuously in advanced API architectures, Python (Django/DRF), and AI-assisted development.
+[LinkedIn](https://www.linkedin.com/in/ram-sharma-056116229/) • [Portfolio](https://github.com/sharmaram10298) • [Email](mailto:sharmaram10298@gmail.com)
 
 ---
-
-## 🛠️ Technical Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | PHP, JavaScript (ES6), Python |
-| **Frameworks (PHP)** | Laravel, CodeIgniter, CakePHP |
-| **Frameworks (Node/Python)**| Express.js, Node.js, Django, FastAPI |
-| **Databases & Cloud** | MySQL, AWS (EC2, S3, RDS), Firebase (FCM), cPanel, WHM |
-| **Architecture & Tools** | RESTful APIs, JWT Authentication, Git, GitHub Copilot, OpenAI API |
-
----
-
-## 📈 Professional Experience Highlights
-
-### **Backend Developer** @ TagDog Media Pvt. Ltd. / Neoxuse Spotly Media LLP *(May 2024 - Present)*
-* **LOCOMATE App (Virtual Walking Mall):** Built Node.js APIs to process real-time user movement data (GPS, steps, heading) and engineered coordinate-mapping logic to translate real-world movement into virtual indoor navigation.
-* **SPOTLY App:** Developed and managed scalable backend infrastructure for high-traffic entertainment applications using Core PHP, JWT authentication, and AWS deployments (EC2, S3, RDS).
-
-### **Backend Developer** @ Hands in Technology *(Dec 2023 - May 2024)*
-* Built robust REST APIs using **Laravel** and **MySQL**.
-* Handled server management, domain configurations, and site hosting deployments using cPanel and GoDaddy.
-
----
-
-## 📂 Featured Projects
-
-### 🌟 **Agmine**
-* **Tech Stack:** Laravel, MySQL, Razorpay, AJAX, JavaScript
-* Full-stack system integration including a dynamic frontend, powerful backend engine, and a complete admin management panel with seamless Razorpay payment gateway integration.
-
-### 📍 **Italy Tour App**
-* **Tech Stack:** Laravel, MySQL
-* Engineered the complete backend API infrastructure and admin portal for managing real-time user travel data and dynamic application flows.
-
-### 📅 **Interview Management System**
-* **Tech Stack:** Laravel, JavaScript, MySQL
-* Developed a full-cycle interview scheduling, tracking, and candidate management platform featuring a clean administrative interface.
-
----
-
-## 📊 My GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmaram10298&show_icons=true&theme=visualstudio&locale=en" alt="Ram's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaram10298&show_icons=true&theme=visualstudio&locale=en&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Experience-2+_Years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based_in-Mumbai,_India-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-REST_APIs-green?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaram10298&theme=visualstudio" alt="GitHub Streak" width="98%" />
-</p>
+</div>
+
+## 🖋️ Executive Summary
+Backend Developer hoon jise **2+ years ka experience** hai scalable REST APIs aur high-performance systems build karne mein. Currently, main **real-time movement-based virtual navigation systems** par kaam kar raha hoon[cite: 1]. Mera focus hamesha clean code (SOLID/DRY) aur secure authentication systems par rehta hai[cite: 1].
 
 ---
 
-## 📫 Let's Connect!
-* **Email:** [sharmaram10298@gmail.com](mailto:sharmaram10298@gmail.com)
-* **LinkedIn:** [linkedin.com/in/ram-sharma-056116229](https://www.linkedin.com/in/ram-sharma-056116229/)
+## 🛠️ Technical Arsenal
 
-*“Writing clean code, designing solid APIs, and scaling infrastructure one commit at a time.”*
+#### **Languages & Frameworks**
+- **Core:** PHP (Laravel, CodeIgniter, CakePHP)[cite: 1]
+- **Modern Web:** Node.js, Express.js, JavaScript (ES6)[cite: 1]
+- **AI & Automation:** Python (Django, FastAPI), OpenAI API[cite: 1]
+
+#### **Infrastructure & Databases**
+- **Cloud:** AWS (EC2, S3, RDS), Firebase (FCM)[cite: 1]
+- **DB:** MySQL Optimization & Query Performance[cite: 1]
+- **DevOps:** cPanel, WHM, Git, GitHub Copilot[cite: 1]
+
+---
+
+## 💼 Professional Spotlight
+
+#### **Backend Developer** | *TagDog Media & Neoxuse Spotly* (May 2024 - Present)[cite: 1]
+- **LOCOMATE App:** GPS aur step data process karne ke liye Node.js APIs design kiye jo real-world movement ko virtual navigation mein convert karte hain[cite: 1].
+- **SPOTLY App:** High-traffic entertainment app ke liye AWS par scalable backend systems aur JWT-secured APIs build kiye[cite: 1].
+
+#### **Backend Developer** | *Hands in Technology* (Dec 2023 - May 2024)[cite: 1]
+- Laravel ka use karke backend systems aur authentication logic develop kiya[cite: 1].
+- Server hosting aur domain configurations manage kiye[cite: 1].
+
+---
+
+## 🚀 Key Projects
+
+- **Agmine:** Laravel aur MySQL based full-stack platform with Razorpay integration[cite: 1].
+- **Italy Tour App:** Travel application ke liye complete API infrastructure aur admin panel[cite: 1].
+- **Interview Management:** Candidate tracking aur scheduling system built with Laravel[cite: 1].
+
+---
+
+## 📊 Analytics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmaram10298&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaram10298&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaram10298&theme=tokyonight&hide_border=true" width="97%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Ram Sharma | Coding for the future</sub>
+</div>
