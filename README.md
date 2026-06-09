@@ -1,28 +1,79 @@
-![logo](https://github.com/sharmaram10298/sharmaram10298/blob/main/sharma.gif)
-<h1 align="center">Hi 👋, I'm Ram Sharma</h1>
-<h3 align="center">A passionate  Php developer from India</h3>
+# Ram Sharma
+### Senior Backend Developer | PHP & Laravel Expert | API & Cloud Specialist
 
-<img align="right" alt="developer-img" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaram10298&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaram10298" /> </p>
-
-- 🌱 I’m currently learning **DRF, Django Rest framework**
-
-- 👨‍💻 My LinkedIn Account: [https://www.linkedin.com/in/ram-sharma-056116229/](https://www.linkedin.com/in/ram-sharma-056116229/)
-
-- 📫  reach me **sharmaram10298@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ram-sharma-056116229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ram-sharma-056116229/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ram-sharma-056116229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sharmaram10298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sharmaram10298&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaram10298&show_icons=true&locale=en&layout=compact" alt="sharmaram10298" /></p>
+## 🚀 About Me
+I am a **Backend Developer** with **2+ years of professional experience** specializing in building scalable RESTful APIs, high-performance backend systems, and secure real-time mobile integrations. My core expertise lies in **PHP (Laravel)**, **Node.js**, and **AWS Cloud Infrastructure**. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaram10298&show_icons=true&locale=en" alt="sharmaram10298" /></p>
+Currently, I am working on cutting-edge real-time movement-based virtual navigation systems. I practice clean code architectures following **SOLID** and **DRY** principles to build highly maintainable software.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaram10298&" alt="sharmaram10298" /></p>
+* 🌍 Based in **Mumbai, India** (Open to remote roles and flexible with international time zones)
+* 🌱 Up-skilling continuously in advanced API architectures, Python (Django/DRF), and AI-assisted development.
+
+---
+
+## 🛠️ Technical Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | PHP, JavaScript (ES6), Python |
+| **Frameworks (PHP)** | Laravel, CodeIgniter, CakePHP |
+| **Frameworks (Node/Python)**| Express.js, Node.js, Django, FastAPI |
+| **Databases & Cloud** | MySQL, AWS (EC2, S3, RDS), Firebase (FCM), cPanel, WHM |
+| **Architecture & Tools** | RESTful APIs, JWT Authentication, Git, GitHub Copilot, OpenAI API |
+
+---
+
+## 📈 Professional Experience Highlights
+
+### **Backend Developer** @ TagDog Media Pvt. Ltd. / Neoxuse Spotly Media LLP *(May 2024 - Present)*
+* **LOCOMATE App (Virtual Walking Mall):** Built Node.js APIs to process real-time user movement data (GPS, steps, heading) and engineered coordinate-mapping logic to translate real-world movement into virtual indoor navigation.
+* **SPOTLY App:** Developed and managed scalable backend infrastructure for high-traffic entertainment applications using Core PHP, JWT authentication, and AWS deployments (EC2, S3, RDS).
+
+### **Backend Developer** @ Hands in Technology *(Dec 2023 - May 2024)*
+* Built robust REST APIs using **Laravel** and **MySQL**.
+* Handled server management, domain configurations, and site hosting deployments using cPanel and GoDaddy.
+
+---
+
+## 📂 Featured Projects
+
+### 🌟 **Agmine**
+* **Tech Stack:** Laravel, MySQL, Razorpay, AJAX, JavaScript
+* Full-stack system integration including a dynamic frontend, powerful backend engine, and a complete admin management panel with seamless Razorpay payment gateway integration.
+
+### 📍 **Italy Tour App**
+* **Tech Stack:** Laravel, MySQL
+* Engineered the complete backend API infrastructure and admin portal for managing real-time user travel data and dynamic application flows.
+
+### 📅 **Interview Management System**
+* **Tech Stack:** Laravel, JavaScript, MySQL
+* Developed a full-cycle interview scheduling, tracking, and candidate management platform featuring a clean administrative interface.
+
+---
+
+## 📊 My GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmaram10298&show_icons=true&theme=visualstudio&locale=en" alt="Ram's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaram10298&show_icons=true&theme=visualstudio&locale=en&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaram10298&theme=visualstudio" alt="GitHub Streak" width="98%" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+* **Email:** [sharmaram10298@gmail.com](mailto:sharmaram10298@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ram-sharma-056116229](https://www.linkedin.com/in/ram-sharma-056116229/)
+
+*“Writing clean code, designing solid APIs, and scaling infrastructure one commit at a time.”*
