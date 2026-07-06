@@ -246,18 +246,12 @@ Developed reporting APIs including
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharmaram10298&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaram10298&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaram10298&theme=tokyonight"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmaram10298&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaram10298&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaram10298&theme=tokyonight&hide_border=true" width="97%" />
+</div>
 </p>
 
 ---
